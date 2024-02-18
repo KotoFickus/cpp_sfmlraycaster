@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\projects\cpp_sfmlraycaster\cpp_sfmlraycaster\main.cpp(209,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\projects\cpp_sfmlraycaster\cpp_sfmlraycaster\main.cpp(211,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\projects\cpp_sfmlraycaster\cpp_sfmlraycaster\main.cpp(244,28): warning C4244: '*=': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\projects\cpp_sfmlraycaster\cpp_sfmlraycaster\main.cpp(245,28): warning C4244: '*=': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\projects\cpp_sfmlraycaster\cpp_sfmlraycaster\main.cpp(246,28): warning C4244: '*=': conversion from 'double' to 'sf::Uint8', possible loss of data
+  Generating code
+  1 of 158 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cpp_sfmlraycaster.vcxproj -> E:\projects\cpp_sfmlraycaster\x64\Release\cpp_sfmlraycaster.exe
